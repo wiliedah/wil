@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.legend{
+    color: cornsilk;
+}
+
+.h2{
+    color: cornsilk;
+}    
+
+
+.po{
+    width: 250px;
+    height: 380px;
+    position: absolute;
+    top: -90px;
+    left: 89;
+     border-radius: 5px;
+     padding: 100px;
+     color: hsl(240, 18%, 97%);
+}
+label {
+   
+    color: hsl(206, 33%, 96%);
+
+
+}
+.post{
+    color: rgb(243, 242, 247);
+}
+body{
+    background-image: url("XO.jpg");
+}

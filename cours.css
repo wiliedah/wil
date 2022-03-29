@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url("si.jpg");
+    height: 200vh;
+}
+
+h1{
+    margin-top: 50px;
+    margin-left: 340px;
+    color: rgba(236, 241, 237, 0.801);
+
+}
+legend{
+    color: rgb(231, 231, 241);
+}
+label{
+    color: rgb(236, 231, 231);
+}
+button{
+    
+    margin-top: 50px;
+    margin-left: 34px;
+    
+}
+body{
+    background-image:url("AO.jpg") ;
+}
+a{
+    color: blue;
+}

@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+ .logo {
+   margin-top: 300px;
+   margin-left: 500px;
+
+}
+a{
+    margin-top: 200px;
+    margin-left: 600px;
+    color: black;
+
+}
+.LOLO{
+    margin-top: 30px;
+    margin-left: 30px;
+
+
+}
+body{
+    background-image: url("QO.jpg");
+}

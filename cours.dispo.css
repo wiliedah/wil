@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h2{
+    margin-left: 480px;
+    margin-top: 45px;
+    color: rgb(238, 241, 234);
+}
+
+
+li{
+    margin-left: 360px;
+    margin-top: 84px ;
+    color: rgb(12, 12, 12);
+    font-size: 2em;
+    
+
+}
+a{
+    color: rgb(16, 16, 230);
+}
+body{
+
+        background-image:url("AO.jpg") ;
+    
+}
